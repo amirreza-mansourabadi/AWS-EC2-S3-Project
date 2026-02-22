@@ -1,3 +1,8 @@
+# AWS-EC2-S3-Project
+
+Hands-on AWS project demonstrating an EC2 instance with an attached IAM role accessing a secure S3 bucket.  
+The project includes screenshots showing EC2 login, IAM role verification, and S3 access, plus the S3 bucket policy file.
+
 ## Project Screenshots
 
 ### 1️⃣ EC2 Login
