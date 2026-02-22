@@ -1,2 +1,10 @@
-# AWS-EC2-S3-Project
-EC2 instance with IAM role accessing S3 bucket (hands-on AWS project)
+## Project Screenshots
+
+### 1️⃣ EC2 Login
+![EC2 Login](screenshots/EC2-Login.png)
+
+### 2️⃣ IAM Role Attached to EC2
+![EC2 IAM Role](screenshots/EC2-IAM-Role.png)
+
+### 3️⃣ S3 Access from EC2
+![EC2 S3 Access](screenshots/EC2-S3-Access.png)
