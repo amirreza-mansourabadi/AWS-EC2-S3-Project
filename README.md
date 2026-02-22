@@ -8,3 +8,7 @@
 
 ### 3️⃣ S3 Access from EC2
 ![EC2 S3 Access](screenshots/EC2-S3-Access.png)
+
+## Project Files
+
+- [S3SecureProjectPolicy.json](S3SecureProjectPolicy.json) – Bucket policy for EC2 access
